@@ -1,19 +1,19 @@
 fileFormatVersion: 2
-guid: aeca3b2f4df9b9f4480ad701a3a3c633
+guid: df50e2a3cbc960047bdeefbfdf3bc071
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 422272653477426424
-    second: (Ali)Player character walk animation (1)_0
+      213: 5424747189865468842
+    second: (Ali)Player character walk animation (2)_0
   - first:
-      213: 391030275341308846
-    second: (Ali)Player character walk animation (1)_1
+      213: -898087249564601632
+    second: (Ali)Player character walk animation (2)_1
   - first:
-      213: -3835346836224984403
-    second: (Ali)Player character walk animation (1)_2
+      213: -3651899725148944080
+    second: (Ali)Player character walk animation (2)_2
   - first:
-      213: 5846325322265461218
-    second: (Ali)Player character walk animation (1)_3
+      213: 2137197946627624704
+    second: (Ali)Player character walk animation (2)_3
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -103,7 +103,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: (Ali)Player character walk animation (1)_0
+      name: (Ali)Player character walk animation (2)_0
       rect:
         serializedVersion: 2
         x: 15
@@ -117,14 +117,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8f432e4bdb63cd500800000000000000
-      internalID: 422272653477426424
+      spriteID: aa3da30e3d2984b40800000000000000
+      internalID: 5424747189865468842
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: (Ali)Player character walk animation (1)_1
+      name: (Ali)Player character walk animation (2)_1
       rect:
         serializedVersion: 2
         x: 75
@@ -138,14 +138,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ea35422b6f73d6500800000000000000
-      internalID: 391030275341308846
+      spriteID: 0e2f460a76a5983f0800000000000000
+      internalID: -898087249564601632
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: (Ali)Player character walk animation (1)_2
+      name: (Ali)Player character walk animation (2)_2
       rect:
         serializedVersion: 2
         x: 15
@@ -159,14 +159,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: daa346c7f5c16cac0800000000000000
-      internalID: -3835346836224984403
+      spriteID: 039862f6c88d15dc0800000000000000
+      internalID: -3651899725148944080
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: (Ali)Player character walk animation (1)_3
+      name: (Ali)Player character walk animation (2)_3
       rect:
         serializedVersion: 2
         x: 75
@@ -180,8 +180,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2e1010bc7e1522150800000000000000
-      internalID: 5846325322265461218
+      spriteID: 00f0f67853ad8ad10800000000000000
+      internalID: 2137197946627624704
       vertices: []
       indices: 
       edges: []
@@ -189,7 +189,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: a21ac854360cef043ba68308729f8cdf
+    spriteID: e89e8ddf74b51f44e823e93421a417b9
     internalID: 0
     vertices: []
     indices: 
