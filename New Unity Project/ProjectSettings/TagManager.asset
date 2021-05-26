@@ -51,3 +51,9 @@ TagManager:
   - name: player
     uniqueID: 628859337
     locked: 0
+  - name: battle background
+    uniqueID: 850273947
+    locked: 0
+  - name: Buttons text enemy
+    uniqueID: 1899798181
+    locked: 0
