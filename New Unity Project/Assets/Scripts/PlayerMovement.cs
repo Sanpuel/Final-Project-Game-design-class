@@ -4,11 +4,17 @@ using UnityEngine;
 
 public class PlayerMovement : MonoBehaviour
 {
+    // movement
     public float moveSpeed = 5f;
+
 
     public Rigidbody2D rb;
 
     Vector2 movement;
+
+    //Random Encounters
+    public LayerMask encounterLayer;
+
     
 
     // Update is called once per frame
@@ -16,6 +22,7 @@ public class PlayerMovement : MonoBehaviour
     {
        movement.x = Input.GetAxisRaw("Horizontal");
        movement.y = Input.GetAxisRaw("Vertical");
+        
     }
 
    void FixedUpdate()
